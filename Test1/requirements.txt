@@ -1,0 +1,4 @@
+easyocr
+cv2
+re
+numpy
